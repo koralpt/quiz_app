@@ -61,30 +61,3 @@ submit_but.pack(padx=10, pady=10)
 
 
 window.mainloop()
-
-
-
-
-print(params)
-
-
-
-
-
-
-
-
-# categories = {
-#     'General Knowledge': 9,
-#     'Entertainment: Books': 10,
-#     'Entertainment: Film': 11,
-#     'Entertainment: Music': 12,
-#     'Entertainment: Musicals & Theatres': 13,
-#     'Entertainment: Television': 14,
-#     'Entertainment: Video Games': 15,
-#     'Entertainment: Board Games': 16,
-#     'Science & Nature': 17,
-#     'Science: Computers': 18,
-#     'Science: Mathematics': 19,
-#
-# }
